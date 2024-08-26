@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.filmsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.crawlContainer {
+  margin-top: 2rem;
+}
